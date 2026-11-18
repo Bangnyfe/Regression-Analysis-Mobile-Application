@@ -114,7 +114,7 @@ class _PredictionPageState extends State<PredictionPage> {
     if (field.hint != null) return field.hint!;
     if (field.allowedValues != null) return field.allowedValues!.join(' / ');
     if (field.min != null && field.max != null) {
-      return '${field.min} – ${field.max}';
+      return '${field.min} - ${field.max}';
     }
     return '';
   }
@@ -222,7 +222,7 @@ class _ResultArea extends StatelessWidget {
     } else {
       content = Text(
         loading
-            ? 'Getting prediction… (the server may take up to a minute to wake up)'
+            ? 'Getting prediction... (the server may take up to a minute to wake up)'
             : 'Fill in every field and press Predict.',
         style: text.bodyLarge?.copyWith(color: scheme.onSurfaceVariant),
       );
