@@ -1,0 +1,301 @@
+product_name,countries,food_group,food_subgroup,additives_n,palm_oil_ingredients_n,maybe_palm_oil_ingredients_n,energy_kj,fat_g,saturated_fat_g,carbohydrates_g,sugars_g,fiber_g,proteins_g,salt_g,nutrition_score
+Pino Bärlauch Pesto,Germany,Fat and sauces,Dressings and sauces,0,0,0,1982.0,51.0,7.2,3.1,1.5,1.3,1.5,0.7,14
+Petits Pains Grillés Gourmands,France,Cereals and potatoes,Bread,4,0,1,1720.0,8.1,0.7,72.0,18.0,5.2,9.0,0.850000000000001,6
+Tzatziki,France,Fat and sauces,Dressings and sauces,1,0,1,700.0,14.7,1.3,2.3,2.1,1.6,6.1,1.0,2
+"Bolognaise, viande Pur Bœuf",France,Fat and sauces,Dressings and sauces,1,0,0,349.0,4.1,1.2,6.2,5.4,2.4,4.3,1.2,3
+Petits Pois et Carottes,France,Fruits and vegetables,Vegetables,0,0,0,247.0,0.6,0.1,8.3,5.8,3.9,3.1,0.659999999999999,-8
+Taboulé aux Tomates Fraîches,France,Composite foods,One dish meals,0,0,0,515.0,2.0,0.3,21.0,2.4,1.9,4.3,0.84,0
+Le Beurre Moulé Doux (82 % MG),France,Fat and sauces,Fats,0,0,0,3113.0,82.0,60.0,0.6,0.6,0.0,0.8,0.05,19
+Son d'avoine,France,Cereals and potatoes,Cereals,0,0,0,1490.0,7.9,1.6,48.1,1.2,14.8,15.7,0.0,-5
+Coulommiers au lait pasteurisé,France,Milk and dairy products,Cheese,0,0,0,1174.0,23.0,17.0,1.0,0.0,0.0,18.0,1.5,14
+Cassoulet recette gourmande,France,Composite foods,One dish meals,6,0,0,484.0,5.2,2.1,8.7,0.5,4.2,6.5,1.0,-2
+Le Méga Chili Tex Mex,France,Fish meat eggs,Meat,0,0,0,908.0,15.0,6.2,7.1,1.8,1.4,13.0,1.8,14
+Tarte Oignons Lardons,France,Composite foods,Pizza pies and quiche,10,0,1,954.0,13.9,8.7,17.4,4.1,3.2,6.8,1.19888,11
+Good Morning Nature,France,Sugary snacks,Biscuits and cakes,4,1,1,1902.0,16.7,6.9,65.9,19.2,4.2,7.9,0.9,13
+Lion mini,"France,Germany",Sugary snacks,Sweets,1,0,0,1993.0,20.8,11.1,65.6,42.3,1.6,5.6,0.53,24
+Citrons pressés,France,Beverages,Sweetened beverages,0,0,0,184.0,0.0,0.0,11.0,11.0,0.0,0.1,0.0,15
+Espárragos blancos en conserva,Spain,Fruits and vegetables,Vegetables,1,0,0,37.8,0.1,0.1,2.4,0.9,1.5,1.3,0.6,-5
+Citronnade,France,Beverages,Non sugared beverages,0,0,0,159.0,0.0,0.0,9.2,9.2,0.5,0.0,0.0,13
+Pomme nature,France,Fruits and vegetables,Fruits,1,0,0,316.0,0.2,0.0,17.0,17.0,2.0,0.2,0.1016,-4
+Candida (Eucamenthol flavoured),Switzerland,Sugary snacks,Sweets,8,0,0,690.0,0.0,0.0,64.0,0.1,3.5,0.1,0.06,-2
+Rosette finement tranchée,France,Fish meat eggs,Processed meat,1,0,0,1448.0,27.0,10.0,0.5,0.3,0.0,26.0,4.4,23
+Aiguillettes de poulet aux épices tandoori,France,Composite foods,One dish meals,1,0,0,602.0,2.8,0.5,3.8,3.6,0.6,25.8,0.83,-1
+Tendres Moments Moelleux Chocolat,France,Sugary snacks,Chocolate products,14,0,3,2065.0,26.5,15.5,55.5,50.0,2.3,6.6,0.4064,24
+Lemon Lime,France,Beverages,Sweetened beverages,3,0,0,112.0,0.0,0.0,6.6,6.6,0.0,0.0,0.01,9
+Soupe Froide Poivron Rouge & Piment Doux,France,Fruits and vegetables,Soups,0,0,0,205.0,2.9,0.4,4.0,2.2,1.2,1.0,0.4,-2
+Espinacas,Spain,Fruits and vegetables,Vegetables,0,0,0,105.0,0.4,0.06,1.4,0.4,2.2,2.9,0.2032,-9
+Farine de blé Bio,France,Cereals and potatoes,Cereals,0,0,0,1439.0,1.8,0.3,67.2,1.4,5.2,12.1,0.01,-6
+Lentilles,France,Cereals and potatoes,Legumes,0,0,0,498.0,0.8,0.2,17.0,0.6,6.3,7.2,1.0,-4
+KitKat White,Germany,Sugary snacks,Sweets,1,0,0,2167.0,25.8,14.1,62.5,51.4,0.6,8.2,0.33,27
+Orangina,France,Beverages,Sweetened beverages,0,0,0,179.0,0.0,0.0,10.2,10.2,0.0,0.1,0.0,13
+Chocolat noir aux amandes 60% cacao,Switzerland,Sugary snacks,Chocolate products,0,0,0,580.0,42.0,21.0,38.0,31.0,8.0,10.0,0.1778,12
+Tartelettes Framboise & chocolat noir,France,Sugary snacks,Biscuits and cakes,9,0,0,1925.0,20.3,13.8,62.1,38.1,3.6,5.2,0.35,19
+Orange nectar,France,Beverages,Non sugared beverages,0,0,0,155.0,0.5,0.0,9.0,8.5,0.1,0.3,0.03,12
+Pur jus multifruits,France,Beverages,Fruit juices,1,0,0,205.0,0.2,0.0,11.2,10.1,0.5,0.2,0.025,4
+Macaroni 124,France,Cereals and potatoes,Cereals,0,0,0,1521.0,2.0,0.5,71.7,3.5,3.0,12.0,0.01,-5
+Ketchup épicé,France,Fat and sauces,Dressings and sauces,0,0,0,485.0,0.5,0.1,25.8,22.1,1.2,1.1,2.4,14
+Guacamole Mild Purée à l'avocat finement épicée,France,Fat and sauces,Dressings and sauces,5,0,0,418.0,5.1,1.8,10.3,3.7,2.6,1.8,0.77,1
+Délices du châtaignier,France,Salty snacks,Nuts,1,0,0,442.0,1.1,0.2,20.0,3.6,4.0,1.7,0.45,-4
+Pro Activ Tartine,France,Fat and sauces,Fats,5,1,1,1318.0,35.0,7.9,1.2,0.49,0.0,0.49,0.72,9
+"Soupe de légumes biologiques - carotte, lait de coco et curcuma",France,Fruits and vegetables,Soups,0,0,0,189.0,2.9,2.4,3.7,1.6,0.7,0.6,0.330000000000001,3
+BN goût chocolat,France,Sugary snacks,Biscuits and cakes,2,0,1,1961.0,17.5,10.0,68.6,36.3,3.9,6.7,0.5334,19
+Ravioles jambon cru & parmesan - 250 g - Rivoire & Carret,France,Cereals and potatoes,Cereals,3,0,0,1649.0,12.0,5.4,54.0,1.7,3.4,15.0,2.0,13
+Bonbons au miel de la Champagne,France,Sugary snacks,Sweets,0,0,0,1665.0,0.3,0.3,97.2,68.4,0.5,0.5,0.0,14
+Parfum Chocolat Goûters REM,France,Sugary snacks,Biscuits and cakes,4,1,0,1945.0,17.0,9.0,69.0,29.0,3.8,6.7,0.87,17
+1% fat British milk,United Kingdom,Milk and dairy products,Milk and yogurt,0,0,0,182.0,1.0,0.7,4.9,4.9,0.5,3.6,0.11,-1
+Matcha Green Tea Watermelon Mint,France,Beverages,Sweetened beverages,3,0,0,71.0,0.0,0.0,4.3,4.2,0.0,0.0,0.0,6
+Creamy Strawberry,Canada,Milk and dairy products,Milk and yogurt,1,0,0,377.0,1.5,1.0,16.0,13.0,0.0,3.0,0.1143,2
+"Canard, sauce au Poivre vert et Riz - Castelnaudary",France,Composite foods,One dish meals,1,0,0,799.0,10.7,9.9,14.1,0.5,0.0,8.3,0.8,14
+Chocolate negro 44% cacao,Spain,Sugary snacks,Chocolate products,1,0,0,2159.0,27.5,16.1,58.2,54.6,6.9,5.7,0.0,21
+Pepito gâteau marbré,France,Sugary snacks,Biscuits and cakes,5,1,1,1758.0,22.0,9.9,51.0,27.0,1.7,5.4,0.67,19
+Goûter Moelleux Tout Choco,France,Sugary snacks,Biscuits and cakes,6,0,0,1728.0,18.0,4.7,56.0,31.0,2.3,6.0,0.57,14
+"Légumes façon Rösti Julienne de légumes, Pomme de terre à l'Emmental",France,Composite foods,One dish meals,1,0,0,611.0,10.5,2.2,7.8,2.1,4.2,3.3,0.840000000000001,-1
+Maxi Cookies Pépites de Chocolat Noir,France,Sugary snacks,Biscuits and cakes,4,1,0,2085.0,26.0,14.0,56.0,26.0,6.5,7.0,0.59,18
+"Dessert au soja, Caramel",France,Sugary snacks,Sweets,1,0,0,427.0,1.8,0.3,18.0,11.0,0.2,3.1,0.15,2
+Confiture extra de Myrtilles Sauvages,France,Sugary snacks,Sweets,0,0,0,978.2,0.1,0.0,55.8,53.8,1.3,0.3,0.0,10
+Malto Antioxydant - Saveur Neutre 500G - Overstims,France,Beverages,Non sugared beverages,0,0,0,1573.0,1.0,1.0,94.0,11.0,1.0,1.0,0.15,17
+Nutella,France,Sugary snacks,Sweets,1,0,1,2273.0,31.6,10.9,57.3,56.7,3.4,6.0,0.09398,22
+Mazapán de Soto,Spain,Sugary snacks,Sweets,3,0,0,1931.0,24.0,2.5,50.0,48.0,4.5,9.0,0.0,12
+Le Fameux Parmentier de canard confit,France,Composite foods,One dish meals,0,0,0,613.0,8.4,5.2,11.0,2.7,1.4,7.9,0.82,4
+Salade de pomme de terre,Switzerland,Composite foods,One dish meals,2,0,0,421.0,6.0,0.7,9.0,0.5,2.5,1.5,1.0,2
+"Yogovera, Strawberry Aloe Vera Soft Drink, Strawberry",United States,Beverages,Sweetened beverages,3,0,0,167.0,0.0,0.0,9.6,7.2,0.0,0.0,0.03048,11
+Lait pur,"France,Switzerland",Sugary snacks,Chocolate products,0,0,0,2420.0,40.0,24.0,48.0,48.0,1.0,7.0,0.325000000000001,27
+Céleri rémoulade,France,Composite foods,One dish meals,6,0,0,566.0,12.9,1.0,3.0,1.7,2.6,1.0,0.8,1
+Confit de figues,France,Fruits and vegetables,Fruits,1,0,0,684.0,0.4,0.1,37.3,34.2,2.9,0.7,0.9,3
+Chocolat noir bio simply dark,France,Sugary snacks,Chocolate products,1,0,0,2356.0,39.0,24.0,43.0,40.0,8.5,6.7,0.02032,20
+Multigrain porridge,United Kingdom,Cereals and potatoes,Cereals,0,0,0,1548.0,3.2,0.3,24.6,0.9,4.6,5.1,0.0,-4
+Croustibat Saumon Rose du Pacifique,France,Composite foods,One dish meals,0,0,0,914.0,9.7,0.8,17.9,0.3,0.9,14.4,0.59,-2
+Saucisse de Morteau cuite,France,Fish meat eggs,Processed meat,1,0,0,1322.0,28.0,10.0,0.8,0.5,0.5,16.0,2.5908,22
+Sur le Pouce ! : Poulet & Pâtes sauce aux fromages,France,Composite foods,One dish meals,1,0,0,628.0,7.9,3.7,12.0,1.3,1.2,7.1,0.78232,2
+Douceurs d'épinards au boursin,France,Composite foods,One dish meals,2,0,1,280.0,5.0,3.5,3.5,0.9,0.7,2.0,0.7112,5
+Jumblies Céréales fourées saveur chocolat noisette,France,Cereals and potatoes,Breakfast cereals,0,0,0,1817.0,13.9,2.9,64.6,28.6,5.8,9.3,0.43,9
+Coca-Cola Zéro,France,Beverages,Artificially sweetened beverages,5,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Tortillas Roll's goût tomate,France,Salty snacks,Appetizers,2,0,0,2121.0,26.0,2.5,60.0,1.8,4.2,6.2,1.6,9
+Semoule de couscous facile ,France,Cereals and potatoes,Cereals,0,0,0,1548.0,2.0,0.4,73.0,3.0,0.0,13.2,0.1,-1
+Extra burger,France,Composite foods,Sandwich,14,0,2,955.0,9.1,2.7,22.0,3.7,2.3,13.3,1.41,2
+Judías verdes planas,"Portugal,Spain",Fruits and vegetables,Vegetables,1,0,0,134.0,0.4,0.0,4.3,1.2,2.3,1.6,0.68,-6
+Mokatine ,France,Sugary snacks,Sweets,0,0,0,1732.0,6.4,6.2,87.0,67.4,1.0,1.8,0.499999999999999,22
+Chicken Tikkq Masala,Switzerland,Composite foods,One dish meals,0,0,0,632.0,5.0,0.7,20.0,2.0,0.6,6.0,0.8,1
+Isio 4,France,Fat and sauces,Fats,0,0,0,3766.0,100.0,8.0,0.0,0.0,0.0,0.0,0.0,10
+Berry boost,France,Beverages,Non sugared beverages,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+Feta originale de Grèce,Switzerland,Milk and dairy products,Cheese,0,0,0,1166.0,24.0,16.0,0.5,0.5,0.5,16.0,2.99999999999999,18
+Choclait Chips Classic,Germany,Sugary snacks,Chocolate products,0,0,0,2120.0,25.8,13.5,60.6,39.5,3.4,6.2,0.1,20
+Crousty 3 Céréales - Noix de coco et pépites de chocolat,France,Cereals and potatoes,Breakfast cereals,0,1,0,1934.0,18.2,12.7,62.1,18.4,7.5,8.4,0.508,16
+Boisson au Jus d'Orange,France,Beverages,Sweetened beverages,1,0,0,162.0,0.01,0.01,9.1,9.1,0.1,0.1,0.0299999999999999,13
+La Potagère légumes nature !,France,Composite foods,One dish meals,0,0,0,122.0,0.0,0.0,6.0,2.52,1.52,0.52,0.508,0
+Lait amandes ou lait raisins noisettes,France,Sugary snacks,Chocolate products,1,0,0,2386.0,40.1,16.8,40.5,39.8,4.0,10.7,0.1778,20
+Compote Pomme Rhubarbe,France,Fruits and vegetables,Fruits,3,0,0,157.0,0.1,0.0,7.6,7.6,7.1,0.4,0.0,-9
+La quotidienne mélange d'huiles de graines,"France,Switzerland",Fat and sauces,Fats,0,0,0,3700.0,100.0,8.0,0.0,0.0,0.0,0.0,0.0,10
+Petit gâteau carré choco,Switzerland,Sugary snacks,Biscuits and cakes,8,1,1,1990.0,25.0,9.0,56.0,40.0,3.5,5.0,0.269999999999999,18
+Nueces mondadas,Spain,Salty snacks,Nuts,0,0,0,2950.0,65.0,6.1,13.7,2.6,6.7,15.2,0.0,9
+Pfeffernusse Iced Gingerbread Cookies,"Australia,United States",Sugary snacks,Biscuits and cakes,4,0,0,1435.0,1.0,0.67,80.0,46.67,3.0,5.33,0.31242,11
+Plateau nem 3 saveurs,France,Composite foods,One dish meals,0,0,0,793.0,7.9,1.8,22.0,3.3,2.4,6.5,2.1,9
+Betteraves Rouges Découpées Façon Traiteur au Vinaigre Balsamique,France,Composite foods,One dish meals,3,0,0,238.0,1.5,0.0,8.0,7.7,3.1,1.3,0.64,-1
+Mandeln blanchiert gehackt,Germany,Salty snacks,Nuts,0,0,0,2504.0,54.1,4.5,3.7,3.7,15.2,18.7,0.03,6
+Caraïbos Maracujà,France,Beverages,Fruit nectars,2,0,0,188.0,0.0,0.0,11.0,11.0,0.0,0.0,0.0,15
+Yaourt Crémeux Ananas Passion,France,Milk and dairy products,Milk and yogurt,1,0,0,446.0,4.1,2.6,15.0,14.0,0.0,2.3,0.09,5
+Fromage Les Croisés,France,Milk and dairy products,Cheese,1,0,0,1377.0,28.0,18.0,0.5,0.5,0.0,7.0,1.44,16
+La piadina,Italy,Cereals and potatoes,Bread,3,0,0,1665.0,18.0,10.0,50.5,2.0,2.0,7.3,1.5,17
+Guimauve Choco Ours,France,Sugary snacks,Sweets,3,0,0,1661.0,11.2,6.7,68.4,60.5,0.7,5.3,0.11,20
+Museau de Porc avec langue,France,Fish meat eggs,Processed meat,4,0,0,1002.0,19.0,6.8,0.5,0.0,0.5,16.0,1.9,16
+Original Tomato Ketchup,United States,Fat and sauces,Dressings and sauces,0,0,0,494.0,0.0,0.0,29.41,23.53,0.0,0.0,2.39014,16
+Filderstädter Apfel-Birnensaft,Germany,Beverages,Fruit juices,0,0,0,191.0,0.1,0.02,10.7,10.0,0.22,0.1,0.00508,4
+Starburst Original,United States,Sugary snacks,Sweets,8,0,0,1670.0,7.5,7.5,85.0,55.0,0.0,0.0,0.0,21
+Velouté légumes provençaux,France,Composite foods,One dish meals,0,0,0,120.0,1.0,0.2,3.5,1.5,0.8,0.7,0.508,1
+Pizza Royale cuite sur pierre,France,Composite foods,Pizza pies and quiche,3,1,0,820.0,6.3,2.0,26.0,4.4,2.2,7.5,1.15,1
+Oeufs frais de poules élevées en Plein Air (x 6) Label Rouge calibre Gros,France,Fish meat eggs,Eggs,0,0,0,610.0,10.0,2.5,1.0,1.0,0.0,13.0,0.3175,-1
+Lentilles vertes Bio,France,Fruits and vegetables,Vegetables,0,0,0,1409.0,1.7,0.2,50.0,1.0,11.0,24.0,0.0100076,-11
+Netto Sauce Tartare,France,Fat and sauces,Fats,0,0,0,2226.0,56.0,4.2,5.6,4.3,0.0,0.8,1.9,14
+P'tit Yaourt Fraise et Pêche,France,Milk and dairy products,Milk and yogurt,5,0,0,410.0,3.0,1.8,14.2,13.8,0.1,3.3,0.127,3
+Boisson Sarrasin Drink,France,Milk and dairy products,Milk and yogurt,0,0,0,213.0,1.1,0.2,8.4,5.6,0.7,1.6,0.1,1
+Huile d'olive corsée extra vierge classic,France,Fat and sauces,Fats,0,0,0,3330.0,90.0,15.0,0.0,0.0,0.0,0.0,0.0,11
+Dés de Jambon,France,Fish meat eggs,Processed meat,3,0,0,552.0,5.5,2.2,1.7,1.4,0.0,19.0,2.3622,13
+Laitue Iceberg (3/4 pers.),France,Fruits and vegetables,Vegetables,0,0,0,62.0,0.1,0.0,2.3,0.6,1.2,0.8,0.008,-6
+Cassis d'Ile-de-France au Sucre de Canne,France,Sugary snacks,Sweets,1,0,0,849.0,0.5,0.0,45.8,44.0,3.9,1.2,0.01,5
+Galettes Épeautre et Son d'Avoine Bio,France,Cereals and potatoes,Cereals,0,0,0,1582.0,3.9,0.6,68.3,1.3,8.2,12.4,0.25,-5
+Jardinière Aux 4 légumes ,France,Fruits and vegetables,Vegetables,3,0,0,171.0,0.4,0.1,5.9,0.8,2.9,1.9,0.499999999999999,-8
+Les Mini Toasts Croustillants Goût Brioché,France,Cereals and potatoes,Bread,3,1,2,1760.0,9.4,4.5,70.7,10.9,4.3,10.2,1.43,12
+Tesco Frosted Flakes,United Kingdom,Cereals and potatoes,Cereals,2,0,0,1639.0,0.8,0.2,88.1,32.5,2.2,5.4,0.5,10
+Waldfrucht Konfitüre Extra,France,Sugary snacks,Sweets,2,0,0,1038.0,0.3,0.02,58.6,54.5,0.5,0.0,0.01,12
+Kouign Amann Pur Beurre,France,Sugary snacks,Biscuits and cakes,1,0,0,2065.0,29.0,20.0,54.0,27.0,1.0,3.9,0.68,22
+Macaroni (Maxi Format) Offre Economique,France,Cereals and potatoes,Cereals,0,0,0,1548.0,2.0,0.35,72.0,3.7,3.6,13.0,0.0127,-6
+"Petits Pois et Carottes à l'étuvée, extra fins",France,Fruits and vegetables,Vegetables,0,0,0,263.0,0.6,0.2,8.8,3.7,4.2,3.4,0.57,-10
+8 galettes de légumes poireaux-carottes-pommes de terre,France,Composite foods,One dish meals,2,0,1,461.0,5.8,0.8,10.6,3.1,3.0,2.5,0.835,-3
+"Brocolis en fleurette, +50% gratuit",France,Fruits and vegetables,Vegetables,0,0,0,75.0,0.0,0.0,1.6,1.1,2.7,1.7,0.0,-9
+Citrons confits Beldi  entiers,France,Fruits and vegetables,Fruits,0,0,0,126.0,0.45,0.0,2.1,1.9,0.0,0.7,12.9,5
+Lactoserum  a la myrtille,France,Beverages,Non sugared beverages,0,0,0,1423.0,0.87,0.87,71.41,71.41,0.0,11.52,1.21,25
+British Shortcrust Pastry Steak Pie,"France,United Kingdom",Composite foods,One dish meals,2,1,0,1109.0,14.6,5.9,23.5,1.0,1.2,9.4,0.53,4
+Himbeeren,Germany,Fruits and vegetables,Fruits,0,0,0,206.0,0.3,0.1,7.0,6.0,7.4,1.0,0.0,-9
+Milka Luflée,Germany,Sugary snacks,Chocolate products,1,0,0,2235.0,30.0,17.5,58.0,57.0,1.8,6.5,0.43,25
+Aloe Vera Drink,United States,Beverages,Non sugared beverages,5,0,0,146.0,0.0,0.0,8.8,8.8,0.0,0.0,0.0254,11
+Petit Brie,France,Milk and dairy products,Cheese,0,0,0,1490.0,32.0,23.0,2.0,2.0,0.0,16.0,1.6,15
+Purées De Fruits et graines,France,Fat and sauces,Fats,0,0,0,2548.0,51.3,6.8,11.0,3.7,7.3,22.2,0.0,-2
+Beurre extra-fin,France,Fat and sauces,Fats,0,0,0,3038.0,80.0,57.0,0.6,0.6,0.0,0.8,2.04,27
+Freedent White Bubble Menthe,France,Sugary snacks,Sweets,14,0,0,601.0,1.0,1.0,60.1,1.0,1.0,1.0,0.499999999999999,2
+Yaourt nature au lait entier,France,Milk and dairy products,Milk and yogurt,0,0,0,262.0,3.4,2.1,4.1,4.1,0.0,3.9,0.1,0
+Porc Grillé Pommes de Terre à l'ail,France,Composite foods,One dish meals,7,0,0,485.0,6.6,1.2,9.0,0.9,0.9,5.3,0.8,1
+Pain grillé de campagne,France,Cereals and potatoes,Bread,1,0,0,1625.0,4.0,0.5,70.5,5.1,5.0,14.0,1.6,6
+Quiche Lorraine,France,Composite foods,Pizza pies and quiche,9,1,1,1006.0,13.6,7.5,22.8,2.2,2.7,5.5,0.89,10
+Pan de molde integral,Spain,Cereals and potatoes,Bread,4,0,0,1043.0,3.0,0.5,43.0,3.0,6.0,9.0,1.3,-2
+Vinaigre Balsamique de Modène,France,Fat and sauces,Dressings and sauces,2,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+"Caramels Tendres, assortiment 4 parfums",France,Sugary snacks,Sweets,1,0,1,1619.0,9.5,5.8,73.0,63.0,0.0,2.5,0.5,21
+Ebly®,"Belgium,France,Switzerland",Cereals and potatoes,Cereals,0,0,0,1506.0,1.4,0.7,70.5,1.6,6.1,12.1,0.029972,-6
+Orange avec pulpe pur jus de fruits pressés Innocent,France,Beverages,Fruit juices,0,0,0,163.0,0.0,0.0,8.4,7.7,0.6,0.8,0.0,2
+Pur jus Orange Mangue,France,Beverages,Fruit juices,0,0,0,190.0,0.5,0.1,10.2,9.6,0.5,0.7,0.0299999999999999,4
+Tarama saumon fumé,France,Fish meat eggs,Fish and seafood,7,0,0,2036.0,49.0,4.1,6.1,1.4,0.5,7.0,1.4,16
+Mermelada de fresa ecológica &quot;Tamara&quot;,Spain,Sugary snacks,Sweets,2,0,0,848.0,0.1,0.1,48.6,40.4,1.4,0.6,0.0254,4
+Original Sweet Mustard,France,Composite foods,Sandwich,0,0,0,1026.0,13.0,7.0,20.0,5.0,1.5,12.0,0.92,12
+Coles Lactose Free Milk Low Fat,Australia,Milk and dairy products,Milk and yogurt,0,0,0,195.0,1.5,1.0,5.0,5.0,0.0,3.2,0.13208,0
+Thé Rooibos Bio,France,Beverages,Non sugared beverages,0,0,0,67.0,0.0,0.0,3.4,3.4,0.0,0.0,0.0,6
+Bolognaise,France,Fat and sauces,Dressings and sauces,0,0,0,295.0,2.4,0.9,7.1,5.1,0.0,4.6,1.16,4
+Glace Vanille,France,Milk and dairy products,Ice cream,6,0,1,858.0,10.4,6.3,25.1,22.3,0.1,2.7,0.13,12
+Chips Nature,"Belgium,France",Salty snacks,Appetizers,0,0,1,2256.0,34.0,2.7,52.0,0.3,4.4,6.1,1.3,8
+Choc'o Pétales,France,Cereals and potatoes,Breakfast cereals,0,0,0,1629.0,3.2,1.6,75.6,20.9,7.6,9.7,0.18,-1
+Corpos Danone Morango + Framboesa,Portugal,Milk and dairy products,Milk and yogurt,1,0,0,143.0,0.2,0.1,4.7,4.6,0.9,2.2,0.100076,-1
+Crousty Chocolat Noir et Noisettes,France,Cereals and potatoes,Breakfast cereals,3,0,1,1938.0,17.8,7.1,63.0,17.0,7.4,8.8,0.38,11
+"Tortellini Ricotta Epinards, sauce au parmesan",France,Cereals and potatoes,Cereals,2,0,0,656.0,7.3,3.4,18.0,3.0,1.1,4.5,0.8,4
+Confiture allégée exotiques,France,Sugary snacks,Sweets,1,0,0,693.0,0.2,0.0,39.0,39.0,2.0,0.4,0.0,3
+Cake Jambon Olives,France,Salty snacks,Appetizers,6,0,0,1276.0,21.7,4.4,12.6,2.5,3.0,13.8,1.4,9
+Thon au Naturel,France,Fish meat eggs,Fish and seafood,0,0,0,490.0,1.6,0.5,0.0,0.0,0.0,25.6,0.59,-2
+Œufs de Lump Noirs,France,Fish meat eggs,Fish and seafood,7,0,0,330.0,3.5,1.5,0.5,0.0,0.0,11.0,4.064,11
+Grenadine 0%,France,Beverages,Artificially sweetened beverages,8,0,0,60.0,0.0,0.0,1.3,0.9,2.7,0.0,0.0299999999999999,0
+Galletas marineras,Spain,Cereals and potatoes,Bread,0,0,0,1774.0,13.1,2.1,67.1,1.5,3.6,9.6,1.778,9
+Torti (Cuisson 3 min.),France,Cereals and potatoes,Cereals,0,0,0,1485.0,1.5,0.1,72.0,2.0,2.5,12.0,0.03,-4
+Filets de Maquereaux (marinés au Muscadet aux Aromates),France,Fish meat eggs,Fish and seafood,0,0,0,660.0,11.0,2.5,0.0,0.0,0.0,15.0,1.016,2
+Plazma slana,"Bosnia and Herzegovina,Montenegro,Republic of Macedonia,Serbia",Salty snacks,Appetizers,1,0,0,1868.0,16.3,6.0,62.9,7.0,1.0,11.0,2.5,20
+Spaghetti,France,Cereals and potatoes,Cereals,0,0,0,1548.0,2.0,0.35,72.0,3.7,3.6,13.0,0.013,-6
+Pops miel chocolat Bio Terres et Céréales,France,Cereals and potatoes,Breakfast cereals,0,0,0,1375.0,14.8,0.3,72.5,22.7,2.4,4.9,0.0254,3
+Pain bio de seigle complet Montignac 375g,France,Cereals and potatoes,Bread,0,0,0,828.0,1.2,0.1,37.0,2.5,9.0,4.2,0.93,-1
+Nectar d'Orange,France,Beverages,Fruit nectars,2,0,0,85.0,0.03,0.01,4.7,4.7,0.1,0.2,0.00508,7
+Chocolat dessert bio,France,Sugary snacks,Chocolate products,1,0,0,2274.0,36.0,22.0,44.0,41.0,9.1,7.1,0.01,20
+Dessert Café,France,Milk and dairy products,Dairy desserts,2,0,0,145.0,6.3,4.1,19.0,16.0,0.3,2.9,0.13,6
+"Calin+ Fruits Pêche, Abricot, Fraise, Framboise)",France,Milk and dairy products,Milk and yogurt,8,0,1,385.0,2.7,1.8,13.1,12.9,0.1,3.3,0.13,2
+"Pâtes d'Alsace 7 Œufs Frais, Nouilles bouclées (Les Classiques) ",France,Cereals and potatoes,Cereals,0,0,0,1579.0,5.0,1.3,67.0,2.6,2.9,15.0,0.127,-4
+"Apfel-mango Saft, Mit Mangomark",France,Beverages,Non sugared beverages,0,0,0,218.0,0.1,0.0,12.0,11.0,0.1,0.2,0.01,16
+Tiramisu Au Spéculoos 100 g x 2 - 200 g,France,Milk and dairy products,Dairy desserts,5,0,1,1226.0,13.0,9.6,36.0,24.0,2.0,4.3,0.23,16
+Biscuits Nappés Chocolat Noir,France,Sugary snacks,Biscuits and cakes,2,1,0,2150.0,26.0,12.0,61.0,20.0,2.5,7.5,0.42672,18
+Mini galette de riz au chocolat noir,France,Cereals and potatoes,Cereals,0,0,0,1970.0,21.0,13.0,60.0,20.0,6.1,6.9,0.02,14
+Sorbet Poire sauce Chocolat Picard,France,Milk and dairy products,Ice cream,4,0,0,395.0,1.6,1.0,18.1,16.6,1.9,0.8,0.0508,2
+Riz à l'asiatique,France,Composite foods,One dish meals,2,0,0,680.0,3.2,0.5,24.0,1.9,9.8,4.4,0.83,-2
+Pure premium pommes douces,France,Beverages,Fruit juices,1,0,0,212.0,0.0,0.0,11.8,11.3,0.5,0.2,0.0,6
+Pistaches grillées à sec,France,Fat and sauces,Fats,0,0,0,2602.0,51.2,6.4,11.3,6.0,0.1,24.7,0.45,5
+Soya Party Chili doux,France,Salty snacks,Appetizers,0,0,0,1900.0,26.0,3.9,9.7,4.3,18.0,37.0,1.7,10
+Taste the Difference Raspberry Conserve,United Kingdom,Sugary snacks,Sweets,3,0,0,1063.0,0.9,0.5,59.4,57.4,2.9,0.7,0.2,4
+Eau Pétillante Saveur Agrumes,France,Beverages,Non sugared beverages,0,0,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,1
+Sopa de Cereales con Bulgur Carretilla,Spain,Composite foods,One dish meals,0,0,0,200.0,2.3,0.3,5.3,0.6,0.9,1.1,1.0,3
+Grains de blé précuits ,France,Cereals and potatoes,Cereals,0,0,0,1511.0,1.8,0.7,67.0,0.5,6.3,15.0,0.0254,-6
+Véritable choucroute garnie d'Alsace cuisinée au Riesling,France,Composite foods,One dish meals,3,0,0,528.0,9.9,3.9,2.6,0.0,2.2,5.9,1.5,4
+Cacahuetes grillées et salées,France,Salty snacks,Nuts,0,0,0,2564.0,50.0,7.1,11.0,5.1,7.9,27.0,1.0,4
+Beurre extra fin,France,Fat and sauces,Fats,0,0,0,3063.0,80.0,55.0,1.0,0.6,0.0,0.7,2.04,27
+Huile vierge de noix de coco,France,Fat and sauces,Fats,0,0,0,3427.0,91.0,86.0,0.0,0.0,0.0,0.0,0.0,15
+"Grignoc Boulgour de blé, Curry & Coco",France,Composite foods,One dish meals,0,0,1,896.0,7.0,1.2,31.0,4.5,3.7,4.7,1.3,1
+"Blédichef, Farandole de carottes fondantes et ses coquillettes au lait",France,Composite foods,One dish meals,4,0,1,323.0,2.2,0.4,11.1,3.3,1.45,2.4,0.37084,-2
+Flageolets Verts Extra-Fins,France,Cereals and potatoes,Legumes,0,0,0,372.0,0.8,0.2,12.1,0.5,6.0,5.2,0.74,-4
+Chips Paysannes nature,France,Salty snacks,Appetizers,0,0,0,2490.0,39.0,4.0,54.0,0.4,4.0,6.0,1.4986,11
+Diet sparkling fiery ginger beer,"France,United Kingdom",Beverages,Non sugared beverages,0,0,0,0.0,0.1,0.1,0.1,0.1,0.1,0.1,0.08,1
+Farmhouse Sourdough,United States,Cereals and potatoes,Bread,8,0,0,1170.0,3.49,0.0,51.2,4.65,2.33,9.3,1.3,1
+Coca-Cola Light,France,Beverages,Non sugared beverages,3,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+Petit déjeuner chocolat,France,Sugary snacks,Biscuits and cakes,7,0,1,1850.0,15.0,3.8,66.0,28.0,7.1,7.8,0.51,11
+Boisson Aux Amandes Bio - - Provamel,France,Beverages,Non sugared beverages,0,0,0,163.0,2.9,0.3,2.2,2.2,0.6,0.8,0.07,8
+Les Toasts Gourmands Multi-Céréales,France,Cereals and potatoes,Bread,3,1,2,1757.0,10.0,3.6,66.0,5.5,4.9,13.0,1.27,9
+Glace Noix de Coco,France,Milk and dairy products,Ice cream,2,0,1,808.0,8.5,7.9,26.0,22.0,1.1,2.4,0.0899999999999999,12
+Yaourt à boire à la fraise,France,Milk and dairy products,Milk and yogurt,0,0,0,304.0,0.9,0.6,13.0,12.0,0.0,2.9,0.11,1
+New Zealand Clover Honey,"France,United Kingdom",Sugary snacks,Sweets,0,0,0,1393.0,0.2,0.2,81.5,80.8,0.5,0.1,0.100076,14
+Sable Nature,France,Sugary snacks,Biscuits and cakes,5,0,0,1745.0,15.0,1.2,71.0,0.5,5.2,5.8,0.8,1
+Lentilles cuisinées aux oignons et carottes,France,Composite foods,One dish meals,3,0,0,357.0,0.3,0.0,11.7,0.0,4.3,6.6,0.88,-5
+Pan de molde Estilo artesano,Spain,Cereals and potatoes,Bread,2,0,0,1046.0,3.0,0.4,45.0,3.1,4.0,9.0,1.2954,-2
+"Lardons, Nature",France,Fish meat eggs,Processed meat,4,0,0,1036.0,20.0,7.8,0.4,0.4,0.5,7.0,2.2352,19
+Green Smoothie Épinard Mangue & Banane,France,Beverages,Non sugared beverages,0,0,0,172.0,0.2,0.0,8.5,7.4,0.0,0.8,0.008,9
+Mini Blinis,France,Salty snacks,Appetizers,2,0,0,1243.0,14.2,1.2,35.3,2.8,1.9,6.0,1.19,4
+100 % pur jus Ananas,France,Beverages,Fruit juices,0,0,0,182.0,0.1,0.1,10.4,9.8,0.1,0.3,0.254,5
+Bœuf bourguignon et ses tagliatelles,France,Composite foods,One dish meals,4,0,0,539.0,3.7,1.4,15.0,3.0,1.4,8.0,1.524,3
+Lentilles Corail,France,Cereals and potatoes,Legumes,0,0,0,1462.0,1.8,0.2,56.0,3.4,6.6,23.0,0.04,-6
+De la région LARD SECHE AUX HERBES,Switzerland,Fish meat eggs,Meat,4,0,0,1590.0,31.0,12.0,1.0,0.5,0.5,25.0,4.19999999999999,24
+Galettes savoyarde,France,Composite foods,One dish meals,0,0,0,947.0,7.2,3.1,31.0,0.6,3.5,7.4,1.1,1
+Pain au lait,France,Sugary snacks,Pastries,2,0,0,1418.0,10.5,3.6,51.2,16.0,0.0,8.8,1.17,15
+Le Biscuit de Natty Bio,France,Sugary snacks,Biscuits and cakes,3,0,0,2125.0,25.0,12.0,61.8,34.3,4.1,7.0,0.42,19
+Farine de blé T45 fluide sans grumeaux,France,Cereals and potatoes,Cereals,0,0,0,1423.0,0.8,0.2,74.4,3.8,2.5,8.8,0.0,-4
+Compote pomme banane ,France,Fruits and vegetables,Fruits,2,0,0,283.0,0.2,0.0,16.0,15.0,1.7,0.2,0.254,-3
+Compotes allégées Pomme Fraise,France,Fruits and vegetables,Fruits,1,0,0,252.0,0.0,0.0,14.0,14.0,1.8,0.0,0.0,-4
+Yaourt nature maigre,France,Milk and dairy products,Milk and yogurt,0,0,0,151.0,0.08,0.0,4.5,4.5,0.0,4.3,0.13,-2
+Maïs doux en grains sous vide,France,Cereals and potatoes,Cereals,0,0,0,500.0,1.3,0.1,22.0,2.6,3.3,3.0,0.5334,-7
+Recette Cantal AOP sauce à la moutarde à l'ancienne,France,Composite foods,Sandwich,0,0,0,1085.0,12.0,5.7,26.0,1.0,2.1,12.0,1.1,10
+Quinoa,Switzerland,Cereals and potatoes,Cereals,0,0,0,1.69,7.6,0.9,66.1,7.4,10.3,12.1,0.02,-9
+Salsifis,France,Fruits and vegetables,Vegetables,2,0,0,115.0,0.0,0.0,4.9,1.6,2.5,0.7,0.5,-6
+Mezzelune con verduras a la parrilla,Spain,Cereals and potatoes,Cereals,0,0,0,878.0,7.1,0.8,30.0,5.2,4.0,4.3,0.87,-1
+Anacardos crudos,Spain,Salty snacks,Nuts,0,0,0,2314.0,43.9,7.8,26.9,5.9,3.3,18.2,0.03,10
+Filets Gourmet à la Bordelaise,Switzerland,Composite foods,One dish meals,2,0,0,699.0,10.0,1.5,6.0,0.6,0.8,13.0,0.75,0
+Déli Matin Multi-Céréales,France,Sugary snacks,Biscuits and cakes,4,1,1,1906.0,15.2,6.2,68.6,21.1,4.8,8.2,1.1811,15
+Hamburguesa de seitán,Spain,Composite foods,Sandwich,1,0,0,854.0,11.6,1.3,2.5,0.8,5.3,19.7,2.0,6
+Mixi-Maxi,Switzerland,Milk and dairy products,Ice cream,4,0,1,474.0,1.5,1.0,23.0,23.0,0.5,1.5,0.0499999999999999,6
+Sirop Zéro Sucres U Parfum Grenadine,France,Beverages,Artificially sweetened beverages,6,0,0,60.0,0.1,0.0,1.4,0.9,2.7,0.1,0.0762,0
+Maïs croquant,France,Cereals and potatoes,Cereals,0,0,0,335.0,2.0,0.4,11.0,5.5,3.5,3.0,0.4064,-8
+Duo Ananas et Carotte au Surimi,France,Composite foods,One dish meals,8,0,0,742.0,15.0,1.1,4.8,2.8,1.5,3.7,1.3,4
+Biscottes sans sel et sans sucres ajoutés,France,Cereals and potatoes,Bread,0,0,0,1619.0,4.6,0.8,69.5,3.7,7.9,13.0,0.0,-6
+Oranges Pressées,"France,Switzerland",Beverages,Fruit juices,0,0,0,209.0,0.1,0.0,11.0,11.0,0.8,0.7,0.0,4
+100 % Pur Jus Carotte Citron ,France,Beverages,Non sugared beverages,0,0,0,138.0,0.1,0.1,7.5,7.3,0.2,0.5,0.13,0
+Mélange de fruits secs,France,Fruits and vegetables,Dried fruits,0,0,0,2022.0,31.4,3.5,32.7,32.7,11.9,12.3,0.01,1
+Quattro Čokolada,Serbia,Milk and dairy products,Ice cream,1,0,1,538.0,6.6,4.7,15.0,13.5,0.6,2.0,0.1,6
+Red Seedless Grapes,United Kingdom,Fruits and vegetables,Fruits,0,0,0,278.0,0.5,0.1,15.4,15.4,0.7,0.5,0.01,-2
+Yaourt Nature Sucré Au sucre de Canne,France,Milk and dairy products,Milk and yogurt,0,0,0,353.0,3.1,2.0,11.0,11.0,0.0,3.0,0.103,3
+Bâtonnets saveur crabe,France,Composite foods,One dish meals,3,0,0,473.0,3.4,0.3,12.0,3.4,0.2,8.5,1.83,3
+Maïs Ultra Croquant sans sucres ajoutés,France,Cereals and potatoes,Cereals,0,0,0,324.0,1.7,0.4,11.8,7.4,2.5,2.4,0.6,-6
+Auchan Fromage Frais 0%,France,Milk and dairy products,Cheese,0,0,0,192.0,0.0,0.0,3.4,3.4,0.0,8.0,0.1016,-4
+Déli'light Fromage blanc nature 0%,France,Milk and dairy products,Cheese,0,0,0,202.0,0.5,0.5,4.4,4.3,0.0,7.5,0.11,-4
+Mini biscuits aux pépites parfum choco,France,Cereals and potatoes,Breakfast cereals,3,0,0,1613.0,1.5,0.5,81.0,33.0,5.5,8.0,0.4,7
+Chocolat noir 71% aux fruits secs,France,Sugary snacks,Chocolate products,0,0,0,2220.0,37.1,18.9,39.0,30.2,9.9,6.2,0.0,17
+Pain D'epices Naturmiel Pretranche 25% De Miel,France,Sugary snacks,Biscuits and cakes,1,0,0,1312.0,0.9,0.2,71.0,50.0,3.2,2.7,0.43,10
+Biscuits Petits-Beurre au Chocolat au Lait,France,Sugary snacks,Biscuits and cakes,3,0,0,2130.0,24.8,15.2,63.3,33.7,2.1,7.2,0.459999999999999,23
+Hamburger Buns,United States,Cereals and potatoes,Bread,2,0,0,1092.0,3.26,0.0,47.83,4.35,2.2,6.52,1.04902,0
+Tostadas de maíz con nopal Susalia,Mexico,Cereals and potatoes,Bread,0,0,0,557.0,4.0,0.333,43.7,0.0,16.7,6.67,0.296,-7
+Boisson de soja,France,Beverages,Non sugared beverages,0,0,0,211.0,2.1,0.5,3.9,3.2,0.5,3.7,0.127,-2
+Champignons de Paris,France,Fruits and vegetables,Vegetables,2,0,0,79.0,0.0,0.0,0.6,0.5,2.1,2.2,0.7,0
+Jambon supérieur avec couenne,France,Fish meat eggs,Processed meat,2,0,0,604.0,6.4,2.4,1.0,0.7,0.5,20.3,1.94,11
+Croque monsieur jambon-fromage,France,Composite foods,Sandwich,9,1,1,809.0,8.2,5.1,19.3,2.8,2.8,9.1,1.1684,9
+Alcachofas troceadas congeladas &quot;Hacendado&quot;,Spain,Fruits and vegetables,Vegetables,0,0,0,150.0,0.2,0.0,2.7,1.3,5.4,3.3,0.199898,-12
+Carottes râpées,France,Composite foods,One dish meals,2,0,0,367.0,5.9,0.8,6.8,4.8,2.6,0.7,0.83,2
+Tomato ketchup allégé,France,Fat and sauces,Dressings and sauces,2,0,0,370.0,0.3,0.1,19.8,9.1,0.5,1.6,2.48,13
+"Boisson à L'orange U,",France,Beverages,Non sugared beverages,4,0,1,368.0,0.0,0.0,21.6,21.2,0.0,0.2,0.0,20
+Salsifis,France,Fruits and vegetables,Vegetables,2,0,0,143.0,0.1,0.0,6.3,5.2,1.3,1.3,0.6096,-3
+Soufflés de Lyon brochet,France,Composite foods,One dish meals,0,0,0,843.3,12.2,1.4,14.8,3.27,0.27,7.5,0.6858,1
+Croque-monsieur,France,Composite foods,Sandwich,2,0,0,1092.0,13.0,8.0,21.0,2.3,1.6,14.0,1.2,13
+Knacki au jambon,France,Fish meat eggs,Processed meat,3,0,0,849.0,15.0,5.8,2.0,2.0,2.1,14.0,1.8,12
+Anneaux de Calamars,France,Composite foods,One dish meals,6,0,2,1130.0,17.0,1.9,21.5,0.4,1.1,7.2,1.6,5
+Grands Ravioli Cèpes - 250 g - Carrefour,France,Cereals and potatoes,Cereals,3,0,1,1000.0,9.5,3.5,28.7,3.4,3.3,7.9,1.1938,2
+Alcamatin Bio,France,Cereals and potatoes,Breakfast cereals,0,0,0,1594.0,7.3,0.95,62.5,12.82,6.8,12.9,0.04,-4
+Sauce Pesto Rosso,France,Fat and sauces,Dressings and sauces,1,0,0,1189.0,26.7,3.1,5.4,3.8,4.3,4.4,2.032,9
+Lentilles préparées,France,Cereals and potatoes,Legumes,0,0,0,337.0,0.6,0.1,11.6,0.4,4.4,6.9,0.8382,-5
+Pensal Farinha com cacau,France,Cereals and potatoes,Breakfast cereals,3,0,0,782.0,3.1,1.5,28.6,15.1,1.5,9.9,0.3,0
+Sirop de Pêche,France,Beverages,Sweetened beverages,3,0,0,1429.0,0.5,0.0,81.0,81.0,0.0,0.5,0.29972,21
+Natuurlijke Noten (hele Amandelen) - Naturel - Pakket - 400 G,France,Fat and sauces,Fats,0,0,0,2561.0,68.0,4.4,6.9,4.2,7.4,21.0,0.03,-3
+Sugo al Basilico,France,Fat and sauces,Dressings and sauces,0,0,0,213.0,2.6,0.3,5.4,4.4,2.2,1.5,1.016,1
+Daim ,France,Sugary snacks,Chocolate products,1,1,0,2210.0,29.5,16.5,59.0,58.0,1.6,5.5,0.57,26
+Lentilles Vertes,France,Fruits and vegetables,Vegetables,0,0,0,1282.0,0.73,0.07,38.0,2.0,23.0,25.0,0.0499999999999999,-12
+Boulgour,France,Cereals and potatoes,Cereals,0,0,0,1423.0,1.7,0.3,63.0,0.9,10.0,13.2,0.0,-6
+Purée Noix de Cajou,France,Fat and sauces,Fats,0,0,0,2502.0,48.9,10.7,20.5,6.3,3.5,18.6,0.05,1
+Yaourt à la grecque ,"France,Portugal",Milk and dairy products,Milk and yogurt,0,0,0,442.0,8.5,5.4,4.3,3.6,0.0,3.2,0.11,5
+miree Paprika-Chili,Germany,Milk and dairy products,Cheese,2,0,0,980.0,22.5,15.7,3.0,3.0,0.0,5.5,1.35,14
+4 British lamb chops ,United Kingdom,Fish meat eggs,Meat,0,0,0,1014.0,18.9,9.6,0.0,0.0,0.0,18.5,0.29972,13
+Filets de harengs fumés,France,Fish meat eggs,Fish and seafood,0,0,0,737.0,12.0,3.3,0.0,0.0,1.0,17.0,5.0,14
+"Poêlée rustique La Fermière Aux Brocolis, Pommes de Terre et Champignons de Paris - surgelé 700 g - Bonduelle",France,Composite foods,One dish meals,2,0,1,289.0,2.9,0.7,7.5,2.1,2.9,1.9,0.7366,-2
+pizza 4 fromage cuite au feu de bois,France,Composite foods,Pizza pies and quiche,0,0,0,995.0,9.5,3.8,25.4,4.8,3.7,10.7,1.524,7
+Acqua frizzante,"France,Italy",Beverages,Non sugared beverages,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+2 Boudins de Poissons et de Saint-Jacques,France,Fish meat eggs,Fish and seafood,5,0,0,883.0,15.6,2.3,6.4,0.3,3.0,9.7,1.57,1
+sirop pêche,France,Beverages,Non sugared beverages,0,0,0,1402.0,0.0,0.0,82.5,82.5,0.0,0.0,0.0,20
+Bolognese met rundvlees,Netherlands,Fat and sauces,Dressings and sauces,0,0,0,432.0,6.5,2.0,6.8,5.2,1.0,4.0,1.5,6
+Palets 3 Fruits,France,Sugary snacks,Biscuits and cakes,2,0,0,1745.0,20.9,13.3,53.9,24.3,5.7,5.3,0.15,15
+British Chicory,United Kingdom,Fruits and vegetables,Vegetables,0,0,0,78.0,0.6,0.2,2.8,0.7,0.9,0.5,0.0,-6
+Bacon fumé au bois de hêtre,France,Fish meat eggs,Meat,2,0,0,498.0,2.1,0.7,0.5,0.5,0.0,25.0,1.5,2
+Raisins (California Sun Dried),United States,Fruits and vegetables,Dried fruits,0,0,0,1360.0,5.0,0.0,80.0,60.0,5.0,2.5,1.91,11
+Jus du potager Carotte,France,Beverages,Non sugared beverages,0,0,0,117.0,0.1,0.01,6.2,6.2,1.0,0.6,0.1,-2
+6 Cônes Caramel Beurre Salé,France,Milk and dairy products,Ice cream,5,0,2,1098.0,10.3,8.1,36.8,25.7,5.8,2.7,0.419999999999999,12
+Duo Haricots verts Champignons,France,Fruits and vegetables,Vegetables,0,0,0,111.0,0.6,0.0,2.2,0.8,2.8,1.7,0.9,-6
+Emmental français râpé (29 % MG) ,France,Milk and dairy products,Cheese,1,0,0,1566.0,29.0,19.4,0.0,0.0,1.3,28.4,0.7112,11
+Fruits de mer à la Provençale,France,Composite foods,One dish meals,4,0,0,427.8,3.5,1.2,2.7,0.0,0.1,14.8,3.8354,12
+Nectar multifruits,France,Beverages,Sweetened beverages,0,0,0,180.0,0.0,0.0,10.3,9.4,0.0,0.2,0.0,13
+"Petits Délis, fromages frais",France,Milk and dairy products,Cheese,3,0,0,394.0,2.0,1.5,12.4,11.2,0.1,6.4,0.088,1
+m&m's biscuit,France,Sugary snacks,Sweets,9,1,0,2159.0,26.3,15.0,62.6,36.8,0.0,6.0,0.81,27
+Sablés Céréales chocolat lait,France,Sugary snacks,Biscuits and cakes,4,1,0,2096.0,23.5,12.7,64.0,29.0,2.8,6.9,0.75,22
+Jambon Emmental,France,Composite foods,Sandwich,11,0,0,1018.0,9.3,3.3,27.9,5.1,1.4,11.1,1.76,13
+Sorbet Citron,"France,Switzerland",Milk and dairy products,Ice cream,1,0,0,520.0,0.5,0.5,30.0,28.0,0.7,0.5,0.03,7
+Duette Vanille,"France,Luxembourg",Sugary snacks,Biscuits and cakes,4,1,0,1904.0,24.0,14.0,60.0,6.3,3.1,7.1,1.08,16
