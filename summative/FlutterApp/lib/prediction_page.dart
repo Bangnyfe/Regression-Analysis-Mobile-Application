@@ -19,7 +19,7 @@ class _PredictionPageState extends State<PredictionPage> {
   };
 
   bool _loading = false;
-  double? _prediction;
+  PredictionResult? _prediction;
   String? _error;
 
   @override
@@ -46,11 +46,20 @@ class _PredictionPageState extends State<PredictionPage> {
         return _checkRange(field, value);
       case FieldType.text:
         final allowed = field.allowedValues;
-        if (allowed != null && !allowed.contains(text)) {
+        if (allowed != null && _matchAllowed(allowed, text) == null) {
           return '${field.label} must be one of: ${allowed.join(', ')}.';
         }
         return null;
     }
+  }
+
+  /// Finds the allowed value that matches [text], ignoring upper/lower case,
+  /// so "sugary snacks" is sent to the API as "Sugary snacks".
+  String? _matchAllowed(List<String> allowed, String text) {
+    for (final value in allowed) {
+      if (value.toLowerCase() == text.toLowerCase()) return value;
+    }
+    return null;
   }
 
   String? _checkRange(InputField field, num value) {
@@ -67,7 +76,9 @@ class _PredictionPageState extends State<PredictionPage> {
     return switch (field.type) {
       FieldType.integer => int.parse(text),
       FieldType.decimal => double.parse(text),
-      FieldType.text => text,
+      FieldType.text => field.allowedValues == null
+          ? text
+          : _matchAllowed(field.allowedValues!, text)!,
     };
   }
 
@@ -148,6 +159,10 @@ class _PredictionPageState extends State<PredictionPage> {
                 decoration: InputDecoration(
                   labelText: field.label,
                   hintText: _hintFor(field),
+                  helperText: field.allowedValues == null
+                      ? null
+                      : 'Options: ${field.allowedValues!.join(', ')}',
+                  helperMaxLines: 4,
                   border: const OutlineInputBorder(),
                 ),
               ),
@@ -189,7 +204,7 @@ class _ResultArea extends StatelessWidget {
   });
 
   final bool loading;
-  final double? prediction;
+  final PredictionResult? prediction;
   final String? error;
 
   @override
@@ -213,10 +228,32 @@ class _ResultArea extends StatelessWidget {
           Text(resultLabel, style: text.labelLarge),
           const SizedBox(height: 4),
           Text(
-            '${prediction!.toStringAsFixed(2)}$unit',
+            '${prediction!.score.toStringAsFixed(2)}$unit',
             key: const ValueKey('result_value'),
             style: text.headlineMedium?.copyWith(fontWeight: FontWeight.w600),
           ),
+          if (prediction!.grade.isNotEmpty) ...[
+            const SizedBox(height: 4),
+            Text(
+              'Nutri-Score grade: ${prediction!.grade}',
+              key: const ValueKey('result_grade'),
+              style: text.titleMedium,
+            ),
+          ],
+          const SizedBox(height: 8),
+          Text(
+            'Scores run from about -15 to 40. Lower is healthier.',
+            style: text.bodySmall?.copyWith(color: scheme.onSurfaceVariant),
+          ),
+          if (prediction!.additivesWarning) ...[
+            const SizedBox(height: 8),
+            Text(
+              'This product has 5 or more additives, a common sign of '
+              'ultra-processed food.',
+              key: const ValueKey('result_warning'),
+              style: text.bodyMedium?.copyWith(color: scheme.error),
+            ),
+          ],
         ],
       );
     } else {

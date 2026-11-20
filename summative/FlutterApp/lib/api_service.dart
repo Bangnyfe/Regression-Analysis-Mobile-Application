@@ -16,6 +16,19 @@ class PredictionException implements Exception {
   String toString() => message;
 }
 
+/// What /predict sends back.
+class PredictionResult {
+  PredictionResult({
+    required this.score,
+    required this.grade,
+    required this.additivesWarning,
+  });
+
+  final double score;
+  final String grade;
+  final bool additivesWarning;
+}
+
 class ApiService {
   ApiService({http.Client? client}) : _client = client ?? http.Client();
 
@@ -24,8 +37,8 @@ class ApiService {
   // A free Render service can take up to a minute to wake from sleep.
   static const Duration _timeout = Duration(seconds: 90);
 
-  /// Sends [inputs] to POST /predict and returns the predicted value.
-  Future<double> predict(Map<String, dynamic> inputs) async {
+  /// Sends [inputs] to POST /predict and returns the prediction.
+  Future<PredictionResult> predict(Map<String, dynamic> inputs) async {
     final uri = Uri.parse('$apiBaseUrl/predict');
 
     final http.Response response;
@@ -49,9 +62,14 @@ class ApiService {
 
     final dynamic body = _decode(response.body);
 
+    if (response.statusCode == 200 && body is Map && body['prediction'] is num) {
+      return PredictionResult(
+        score: (body['prediction'] as num).toDouble(),
+        grade: body['grade']?.toString() ?? '',
+        additivesWarning: body['additives_warning'] == true,
+      );
+    }
     if (response.statusCode == 200) {
-      final value = body is Map ? body['prediction'] : null;
-      if (value is num) return value.toDouble();
       throw PredictionException('The server returned an unexpected response.');
     }
 
@@ -87,8 +105,14 @@ class ApiService {
       if (error is! Map) continue;
       final loc = error['loc'];
       final key = loc is List && loc.isNotEmpty ? loc.last.toString() : '';
-      final name = labels[key] ?? key;
-      final msg = error['msg']?.toString() ?? 'Invalid value';
+      // Checks on the whole request (e.g. saturated fat > fat) have loc ["body"].
+      final name = key == 'body' ? '' : (labels[key] ?? key);
+      final msg = (error['msg']?.toString() ?? 'Invalid value')
+          .replaceFirst('Value error, ', '')
+          .replaceAll('saturated_fat_g', 'saturated fat')
+          .replaceAll('fat_g', 'fat')
+          .replaceAll('sugars_g', 'sugars')
+          .replaceAll('carbohydrates_g', 'carbohydrates');
       lines.add(name.isEmpty ? msg : '$name: $msg');
     }
     return lines.join('\n');
