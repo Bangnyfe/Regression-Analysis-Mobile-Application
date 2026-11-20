@@ -10,6 +10,7 @@ Routes:
 Run locally:  uvicorn prediction:app --reload
 """
 
+import gc
 import io
 import time
 from enum import Enum
@@ -221,6 +222,9 @@ def retrain(file: UploadFile = File(description="CSV with the same columns as th
     combined = pd.concat([training_data, good_rows], ignore_index=True)
     start = time.time()
     new_model = clone(model)  # same preprocessing and settings, but untrained
+    # Build the trees one at a time. Render's free server has 512 MB of memory and only
+    # 0.1 CPU, so training in parallel uses more memory without being any faster.
+    new_model.set_params(model__n_jobs=1)
     new_model.fit(combined[FEATURES], combined[TARGET])
     seconds = time.time() - start
 
@@ -231,6 +235,7 @@ def retrain(file: UploadFile = File(description="CSV with the same columns as th
     model = new_model
     training_data = combined
     last_retrained = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    gc.collect()  # free the old model's memory straight away
 
     return {
         "message": "Model retrained and now used by /predict.",
