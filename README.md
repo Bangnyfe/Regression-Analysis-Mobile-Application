@@ -17,7 +17,7 @@ https://nutrition-score-api.onrender.com/docs
 The API runs on Render's free plan, so the first request after a quiet period can take up to a minute while the server wakes up.
 
 ## Video demo
-YouTube:
+YouTube: https://youtu.be/zTucUilSwyo
 
 ## How to run the mobile app
 
